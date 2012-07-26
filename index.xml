@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>warmer blog</title>
+  <link href="http://warmerq.github.com/index.xml" rel="self" />
+  <link href="http://warmerq.github.com/"/>
+  <updated>Lisp error in nil: (wrong-type-argument integerp nil)</updated>
+  <id>http://warmerq.github.com/index.xml</id>
+  <entry><title type="html">First post</title><author><name>nil</name></author><link href="http://warmerq.github.com//blog/2012/07/26_first-post.html"/><updated>2012-07-26T10:43:00Z</updated><published>2012-07-26T10:43:00Z</published><id>blog/2012/07/26_first-post.html</id>Lisp error in nil: (void-function htmlize-protect-string)
+</feed>
